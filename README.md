@@ -1,28 +1,21 @@
-# Hi there, I'm Deepak 👋
+---
 
-I'm a [Your Role/Title, e.g., Full-Stack Software Engineer] passionate about building scalable applications, writing clean code, and solving complex problems.
+<div align="center">
+  <h2>🚀 Featured Project: L7 Mastery</h2>
+  <br>
+  <p>I am the creator and lead engineer of <b><a href="https://www.l7mastery.com/">L7 Mastery</a></b>, a comprehensive platform designed to help developers level up their skills and crack top-tier technical interviews.</p>
+  
+  <p><b>Built with:</b> <!-- Add the specific stack you used here, e.g., Next.js, Spring Boot, PostgreSQL --></p>
+  
+  <br>
+  <a href="https://www.l7mastery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_L7_Mastery-0f172a?style=for-the-badge&logoColor=white" alt="Visit L7 Mastery" />
+  </a>
+</div>
 
-## 🛠️ My Skills & Tools
+---
 
-**Languages:**
-* Python
-* JavaScript / TypeScript
-* Java
-* HTML5 / CSS3
-
-**Frameworks & Libraries:**
-* React.js
-* Next.js
-* Node.js
-* Django
-
-**Databases & DevOps:**
-* PostgreSQL
-* MongoDB
-* Docker
-* AWS
-* Git & GitHub
-
-## 🚀 What I'm Working On
-* Currently building **https://www.l7mastery.com/** - [Brief 1-sentence description]
-* Learning more about **Tech**
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  <p>Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a> or connect on <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></p>
+</div>
