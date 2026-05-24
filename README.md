@@ -5,7 +5,7 @@
   <br>
   <p>I am the creator and lead engineer of <b><a href="https://www.l7mastery.com/">L7 Mastery</a></b>, a comprehensive platform designed to help developers level up their skills and crack top-tier technical interviews.</p>
   
-  <p><b>Built with:</b> <!-- Add the specific stack you used here, e.g., Next.js, Spring Boot, PostgreSQL --></p>
+  <p><b>Built with:</b> Angular, React & Next.js <i>(Frontend)</i> | Spring Boot, Django & FastAPI <i>(Backend)</i></p>
   
   <br>
   <a href="https://www.l7mastery.com/" target="_blank">
