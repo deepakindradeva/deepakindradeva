@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Deepak Kumar 👋</h1>
   <h3>Full-Stack Software Engineer | Building Scalable Web Architectures</h3>
   <p>I specialize in architecting and developing robust applications, seamlessly bridging high-performance backend systems with dynamic, modern frontends.</p>
 </div>
