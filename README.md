@@ -1,3 +1,43 @@
+<div align="center">
+  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h3>Full-Stack Software Engineer | Building Scalable Web Architectures</h3>
+  <p>I specialize in architecting and developing robust applications, seamlessly bridging high-performance backend systems with dynamic, modern frontends.</p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack & Expertise</h2>
+  <br>
+  
+  <p><strong>Frontend Engineering</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css" alt="Frontend Skills" />
+  </a>
+  <br><br>
+
+  <p><strong>Backend & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,java,django,fastapi,python,nodejs" alt="Backend Skills" />
+  </a>
+  <br><br>
+
+  <p><strong>Databases, Cloud & Tools</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,linux,git" alt="Tools" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <br>
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual username below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top Languages" />
+</div>
+
 ---
 
 <div align="center">
